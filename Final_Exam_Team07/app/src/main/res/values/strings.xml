@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Final_Exam_Team07</string>
+    <string name="connection">連線設定</string>
+    <string name="subscription">訂閱</string>
+    <string name="publish">發送</string>
+    <string name="message">訊息</string>
+    <string name="host">Host</string>
+    <string name="port">Port</string>
+    <string name="client_id">Client ID</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="connect">連線</string>
+    <string name="disconnect">中斷連線</string>
+    <string name="tls_ssl">TLS/SSL</string>
+    <string name="true_str">True</string>
+    <string name="false_str">False</string>
+    <string name="topic">Topic</string>
+    <string name="payload">Payload</string>
+    <string name="qos">QoS</string>
+    <string name="retained">Retained</string>
+    <string name="subscribe">訂閱</string>
+</resources>
